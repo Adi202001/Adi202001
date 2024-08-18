@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm the CTO of Keplix Pvt Ltd and a passionate tec
 
 ## 📈 My GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi202001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi202001&layout=compact&theme=radical)
 
 ## 📝 Featured Projects
 
