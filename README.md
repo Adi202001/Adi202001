@@ -1,27 +1,27 @@
 # Hi there, I'm Aditya Narayan 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=Adi202001&color=brightgreen)
 
-Welcome to my GitHub profile! I'm the **CEO & Founder of Ainrion Pvt Ltd** and **Head of Technology at Keplix**. A passionate technologist focused on building innovative solutions across cybersecurity, AI/ML, and full-stack development.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer & Cybersecurity Enthusiast** passionate about building secure, scalable solutions. With expertise spanning web development, AI/ML, and information security, I'm constantly exploring new technologies to solve real-world problems.
 
 ## 🚀 About Me
 
-- 🏢 **Founder & CEO** at **Ainrion Pvt Ltd** — "Future Beyond Horizon" | A product-based R&D company developing cutting-edge technology solutions
-- 💼 **Head of Technology** at **Keplix** — An automotive marketplace platform revolutionizing how people interact with automotive services
-- 🎓 Pursuing **B.Tech in Cyber Security & Computer Forensics** from **UPES** (Class of 2025)
-- 🔭 Currently building **Aksharshruti** — A literary social platform for writers and readers
-- 🛡️ Exploring **Defense Tech**, **IoT Security**, and **Multi-Agent AI Systems**
-- 💬 Ask me about **cybersecurity**, **full-stack architecture**, **AI/ML integration**, and **startup building**
+- 🎓 Pursuing **B.Tech in Cyber Security & Computer Forensics** from **UPES** (2025)
+- 💼 Currently **Head of Technology** at **Keplix** — an automotive marketplace platform
+- 🔭 Building **Aksharshruti** — a literary social platform for writers and readers
+- 🛡️ Passionate about **Application Security**, **Network Security**, and **Digital Forensics**
+- 🤖 Exploring **AI/ML**, **Multi-Agent Systems**, and **Automation**
+- 💬 Ask me about **full-stack development**, **cybersecurity**, and **system architecture**
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, JavaScript, TypeScript
 - **Frontend**: Next.js, React, React Native, Tailwind CSS
 - **Backend**: Django, Node.js, Express, GraphQL, REST APIs
-- **AI/ML**: LangChain, Multi-Agent Frameworks, RAG Systems
+- **AI/ML**: LangChain, RAG Systems, Multi-Agent Frameworks
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **Security**: Penetration Testing, Network Security, Digital Forensics
+- **Security**: Penetration Testing, Vulnerability Assessment, SIEM, Digital Forensics
 - **DevOps**: Docker, CI/CD, AWS, Vercel
-- **Tools**: Git, VSCode, Postman, Burp Suite
+- **Tools**: Git, VSCode, Postman, Burp Suite, Wireshark
 
 ## 📈 My GitHub Stats
 
@@ -30,11 +30,8 @@ Welcome to my GitHub profile! I'm the **CEO & Founder of Ainrion Pvt Ltd** and *
 
 ## 📝 Featured Projects
 
-### [Ainrion](https://github.com/Adi202001/ainrion)
-Building the future of technology — R&D focused company developing products in AI, IoT security, and blockchain verification systems.
-
 ### [Keplix](https://github.com/Adi202001/keplix)
-An innovative automotive marketplace platform addressing everyday challenges faced by the general public and vendors in the automotive ecosystem.
+An automotive marketplace platform addressing everyday challenges faced by the general public and vendors in the automotive ecosystem.
 
 ### [Aksharshruti](https://github.com/Adi202001/aksharshruti)
 A literary social platform connecting writers, poets, and readers — celebrating the written word.
@@ -47,12 +44,12 @@ A literary social platform connecting writers, poets, and readers — celebratin
 
 ## 🏅 Highlights
 
-- 🚀 Founded Ainrion Pvt Ltd — building deep tech products for the future
-- 🏆 Leading technology strategy at Keplix in the automotive marketplace space
-- 🛡️ Specializing in cybersecurity with hands-on experience in penetration testing & forensics
-- 🤖 Developing multi-agent AI systems and automation frameworks
-- 🔬 Researching defense applications including drone technologies and signal systems
+- 🏆 Led technology strategy and development for a growing automotive marketplace
+- 🛡️ Hands-on experience in penetration testing, vulnerability assessment & forensics
+- 🚀 Built and deployed scalable full-stack applications with modern frameworks
+- 🤖 Developed AI-powered automation tools and multi-agent systems
+- 📚 Continuous learner and open-source contributor
 
 ---
 
-*Building technology that matters. Open to collaborations, conversations, and coffee chats about tech, startups, and innovation!* 🚀
+*Always building, always learning. Open to collaborations and conversations about tech!* 🚀
