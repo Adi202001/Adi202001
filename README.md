@@ -1,25 +1,27 @@
 # Hi there, I'm Aditya Narayan 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=Adi202001&color=brightgreen)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
-Welcome to my GitHub profile! I'm the CTO of Keplix Pvt Ltd and a passionate technology enthusiast dedicated to building innovative solutions. With expertise in full-stack development, I'm constantly exploring new technologies and frameworks to bring ideas to life.
+Welcome to my GitHub profile! I'm the **CEO & Founder of Ainrion Pvt Ltd** and **Head of Technology at Keplix**. A passionate technologist focused on building innovative solutions across cybersecurity, AI/ML, and full-stack development.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working on **Keplix**, an automotive marketplace revolutionizing the way people interact with automotive services.
-- 🔭 I’m also exploring **EduCollab**, an educational platform with a social media interface similar to LinkedIn.
-- 💼 I have experience in **Node.js**, **GraphQL**, **Next.js**, **Redis**, and **PostgreSQL**.
-- 💬 Ask me about **microservices architecture**, **backend development**, and **tech stack optimization**.
-- 🎓 I hold a degree in automotive design and have pursued business along with my technical expertise.
+- 🏢 **Founder & CEO** at **Ainrion Pvt Ltd** — "Future Beyond Horizon" | A product-based R&D company developing cutting-edge technology solutions
+- 💼 **Head of Technology** at **Keplix** — An automotive marketplace platform revolutionizing how people interact with automotive services
+- 🎓 Pursuing **B.Tech in Cyber Security & Computer Forensics** from **UPES** (Class of 2025)
+- 🔭 Currently building **Aksharshruti** — A literary social platform for writers and readers
+- 🛡️ Exploring **Defense Tech**, **IoT Security**, and **Multi-Agent AI Systems**
+- 💬 Ask me about **cybersecurity**, **full-stack architecture**, **AI/ML integration**, and **startup building**
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: Next.js, React, HTML, CSS
-- **Backend**: Node.js, Express, GraphQL, REST APIs
-- **Databases**: PostgreSQL, Redis
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Tools**: Git, VSCode, Postman, JIRA
+- **Languages**: Python, JavaScript, TypeScript
+- **Frontend**: Next.js, React, React Native, Tailwind CSS
+- **Backend**: Django, Node.js, Express, GraphQL, REST APIs
+- **AI/ML**: LangChain, Multi-Agent Frameworks, RAG Systems
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Security**: Penetration Testing, Network Security, Digital Forensics
+- **DevOps**: Docker, CI/CD, AWS, Vercel
+- **Tools**: Git, VSCode, Postman, Burp Suite
 
 ## 📈 My GitHub Stats
 
@@ -28,24 +30,29 @@ Welcome to my GitHub profile! I'm the CTO of Keplix Pvt Ltd and a passionate tec
 
 ## 📝 Featured Projects
 
-### [Keplix](https://github.com/your-username/keplix)
-An innovative automotive marketplace platform that addresses everyday challenges faced by the general public and vendors. It offers a seamless and organized experience for a wide range of automotive needs.
+### [Ainrion](https://github.com/Adi202001/ainrion)
+Building the future of technology — R&D focused company developing products in AI, IoT security, and blockchain verification systems.
 
-### [EduCollab](https://github.com/your-username/educollab)
-A collaborative platform for educators and learners, featuring a LinkedIn-like social media interface for enhanced networking and learning opportunities.
+### [Keplix](https://github.com/Adi202001/keplix)
+An innovative automotive marketplace platform addressing everyday challenges faced by the general public and vendors in the automotive ecosystem.
+
+### [Aksharshruti](https://github.com/Adi202001/aksharshruti)
+A literary social platform connecting writers, poets, and readers — celebrating the written word.
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-narayan/)
-- [Twitter](https://twitter.com/your-username)
-- [Email](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-narayan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 🏅 Achievements
+## 🏅 Highlights
 
-- 🏆 Built and scaled multiple high-traffic web applications
-- 🥇 Successfully led a development team to deliver cutting-edge solutions in the automotive industry
-- 🚀 Continuously contributing to open-source projects and tech communities
+- 🚀 Founded Ainrion Pvt Ltd — building deep tech products for the future
+- 🏆 Leading technology strategy at Keplix in the automotive marketplace space
+- 🛡️ Specializing in cybersecurity with hands-on experience in penetration testing & forensics
+- 🤖 Developing multi-agent AI systems and automation frameworks
+- 🔬 Researching defense applications including drone technologies and signal systems
 
 ---
 
-*Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a project or just chat about tech!* 😊
+*Building technology that matters. Open to collaborations, conversations, and coffee chats about tech, startups, and innovation!* 🚀
